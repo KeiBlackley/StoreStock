@@ -34,7 +34,8 @@ While this system is being developed as a private application, we plan to introd
 * HTML, CSS3, JS
 * JQuery
 * PHP8
-* Composer
+* Composer/guzzlehttp
+* PHPOffice/PHPSpreadsheet
 
 ## Getting Started
 
